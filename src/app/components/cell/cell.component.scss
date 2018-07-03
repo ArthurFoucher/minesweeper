@@ -1,0 +1,13 @@
+$cell-size: 40px;
+
+.cell {
+  display: inline-block;
+  height: $cell-size;
+  width: $cell-size;
+  background-color: #D4D4D4;
+  border: 2px solid grey;
+  border-radius: 4px;
+  font-size: 30px;
+  text-align: center;
+  vertical-align: middle;
+}
